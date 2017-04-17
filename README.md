@@ -50,7 +50,7 @@ npm run dev-server
 
 You can now browse to `http://localhost:8080`
 
-##Live Reload
+## Live Reload
 
 In `App` you'll find the single page reach app. Try opening `Components/Header.js' and modifying the text. Hit save and the browser should update with your changes.
 
